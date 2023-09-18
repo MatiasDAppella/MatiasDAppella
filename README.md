@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matias Appella</h1>
 <h3 align="center">Full-Stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on internship in Bocancorporation.com **Bocancorp's Blog**
+- 🔭 I’m currently working on internship in Bocancorporation.com on **Bocancorp's Blog**
 
 - 🌱 I’m currently learning **Next.js 13, amazon aws**
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1i_sahKtmyOfvE-ob2FoiKETbrIoE6LAZ/edit?usp=drive_link&ouid=116039193718414482441&rtpof=true&sd=true](https://docs.google.com/document/d/1i_sahKtmyOfvE-ob2FoiKETbrIoE6LAZ/edit?usp=drive_link&ouid=116039193718414482441&rtpof=true&sd=true)
 
-- ⚡ Fun fact **"The last of Us: Part I", best game ever**
+- ⚡ Fun fact **I teach you how to attack with sage in valorant**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
